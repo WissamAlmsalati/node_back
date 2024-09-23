@@ -4,6 +4,7 @@
   "description": "for tha dont stop app ",
   "main": "index.js",
   "scripts": {
+    "start": "node Server.js",
     "test": "Hellow World"
   },
   "author": "",
